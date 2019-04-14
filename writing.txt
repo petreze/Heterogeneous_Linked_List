@@ -1,0 +1,7 @@
+stack 10 13 
+queue 
+list 13 
+stack 13 
+queue 13 17 25 
+list 
+stack 10 13 15 
